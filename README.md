@@ -14,7 +14,7 @@ React
 Node.js and npm installed on your machine.
 # Installation
 Clone the repository:
-git clone https://github.com/your-username/mood-predictor.git
+git clone https://github.com/Nilajit05/mood_prediction_.git
 cd mood-predictor
 # Install dependencies:
 npm install
